@@ -3,7 +3,7 @@
 import requests
 from pprint import pprint
 import pyttsx3 #install pyttx3 "pip install pyttsx3"
-import speech_recognition as sr  #pip install  speechrecognition
+import speech_recognition as sr  #"pip install  speechrecognition"
 import datetime 
 import wikipedia #install wikipedia "pip install wikipedia"
 import webbrowser
